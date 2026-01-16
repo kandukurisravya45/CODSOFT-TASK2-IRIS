@@ -120,13 +120,7 @@ jupyter notebook
 • Machine Learning model building  
 • Model evaluation  
 
----
-
-## 🔮 Future Enhancements
-• Try different classification algorithms  
-• Compare model performances  
-• Visualize decision boundaries  
-• Deploy the model using a web interface  
+ 
 
 ---
 
